@@ -50,7 +50,7 @@ Branch protection is now active on the `main` branch of all five repositories (`
 | Merge Methods | Squash-merge only (no merge/rebase commits) | **Enforced** |
 | Force Pushes | Disallowed | **Enforced** |
 
-*Note: The stable branch protection policy JSON used to configure all organization repositories is located at [branch_protection.json](./branch_protection.json).*
+*Note: The stable branch protection policy JSON used to configure all organization repositories is located at [branch_protection.json](./branch_protection.json). For a future migration guide to Repository-Level Rulesets, please refer to [RULESETS.md](./RULESETS.md).*
 
 ---
 

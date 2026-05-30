@@ -46,7 +46,7 @@ Branch protection is now active on the `main` branch of all five repositories (`
 | Merge Methods | Squash-merge only (no merge/rebase commits) | **Enforced** |
 | Force Pushes | Disallowed | **Enforced** |
 
-*Note: Since `laook-flutter-app` was empty, it was initialized with a baseline README.md to establish the `main` branch, allowing the branch protection rules to be successfully configured.*
+*Note: Since `laook-flutter-app` was empty, it was initialized with a baseline README.md to establish the `main` branch, allowing the branch protection rules to be successfully configured. For a future migration guide to Repository-Level Rulesets, please refer to [RULESETS.md](./RULESETS.md).*
 
 ---
 
