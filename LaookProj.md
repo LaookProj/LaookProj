@@ -9,11 +9,11 @@
 | **Login / URL** | `LaookProj` – <https://github.com/organizations/LaookProj> |
 | **Description** | AI‑powered pantry tracker and recipe recommendation engine driven by Computer Vision |
 | **Created at** | 2023‑05‑30 05:05:31 UTC |
-| **Public repositories** | 4 |
-| **Repositories** | <ul><li>`laook-backend-api` (default branch **main**) – protected</li><li>`laook-models` (default branch **main**) – protected</li><li>`laook-mobile-app` (default branch **main**) – protected</li><li>`laook-flutter-app` (default branch **main**) – initialized & protected</li></ul> |
+| **Public repositories** | 5 |
+| **Repositories** | <ul><li>`LaookProj` (default branch **main**) – central governance & protected</li><li>`laook-backend-api` (default branch **main**) – protected</li><li>`laook-models` (default branch **main**) – protected</li><li>`laook-mobile-app` (default branch **main**) – protected</li><li>`laook-flutter-app` (default branch **main**) – initialized & protected</li></ul> |
 | **Members** | `ahmadnurhidayat`, `AldiNFitrah`, `DhafaAryanda`, `inggitrestuillahi` |
 | **Teams** | **Developers** (slug: `developers`), **QA** (slug: `qa`) |
-| **Branch protection** | **Active** on `main` branch of all 4 repositories |
+| **Branch protection** | **Active** on `main` branch of all 5 repositories |
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ### 2️⃣ Enforce Branch‑Protection Rules (Status: COMPLETE ✅)
-Branch protection is now active on the `main` branch of all four repositories (`laook-backend-api`, `laook-models`, `laook-mobile-app`, `laook-flutter-app`) with the following policies:
+Branch protection is now active on the `main` branch of all five repositories (`LaookProj`, `laook-backend-api`, `laook-models`, `laook-mobile-app`, `laook-flutter-app`) with the following policies:
 
 | Rule | Configuration | Status |
 |---|---|---|
@@ -56,8 +56,8 @@ Branch protection is now active on the `main` branch of all four repositories (`
 | Enforce 2FA | Enforce two-factor authentication for all members | **Enforced** ✅ |
 | Secret scanning | Automatic detection of exposed keys and tokens | **Enabled** ✅ |
 | Dependabot Alerts | Automatic dependency vulnerability notifications | **Enabled** ✅ |
+| SECURITY.md | Clear disclosure instructions for vulnerabilities | **Configured** ✅ |
 | CODEOWNERS | Automatic reviewer assignments | **Pending** |
-| SECURITY.md | Clear disclosure instructions for vulnerabilities | **Pending** |
 | Issue Templates | Bug report and feature request templates | **Pending** |
 
 ---
