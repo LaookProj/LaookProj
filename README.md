@@ -63,12 +63,19 @@ Branch protection is now active on the `main` branch of all five repositories (`
 | SECURITY.md | Clear disclosure instructions for vulnerabilities | **Configured** [SECURITY.md](./SECURITY.md) ✅ |
 | CODEOWNERS | Automatic reviewer assignments | **Pending** |
 | Issue Templates | Bug report and feature request templates | **Pending** |
+| Contributing Guide | Instructions for developer onboarding and workflows | **Configured** [CONTRIBUTING.md](./CONTRIBUTING.md) ✅ |
 
 ---
 
 ### 4️⃣ Audit & Clean Up Access (Status: COMPLETE ✅)
 - Audited repository access: All repositories have direct collaborators cleared out; all write/push permissions are safely mediated through the `developers` and `qa` teams.
 - Two-Factor Authentication (2FA) requirements are active at the organization level.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community and the team! For instructions on how to set up your environment, our branching strategy, and the pull request process, please refer to our [Contributing Guidelines](./CONTRIBUTING.md).
 
 ---
 
