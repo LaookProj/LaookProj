@@ -13,11 +13,11 @@ This repository serves as the central hub for organization-wide governance, docu
 | **Login / URL** | `LaookProj` – <https://github.com/organizations/LaookProj> |
 | **Description** | AI‑powered pantry tracker and recipe recommendation engine driven by Computer Vision |
 | **Created at** | 2023‑05‑30 05:05:31 UTC |
-| **Public repositories** | 5 |
-| **Repositories** | <ul><li>`LaookProj` (default branch **main**) – central governance & protected</li><li>`laook-backend-api` (default branch **main**) – protected</li><li>`laook-models` (default branch **main**) – protected</li><li>`laook-mobile-app` (default branch **main**) – protected</li><li>`laook-flutter-app` (default branch **main**) – initialized & protected</li></ul> |
+| **Public repositories** | 6 |
+| **Repositories** | <ul><li>`LaookProj` (default branch **main**) – central governance & protected</li><li>`laook-backend-api` (default branch **main**) – protected</li><li>`laook-models` (default branch **main**) – protected</li><li>`laook-mobile-app` (default branch **main**) – protected</li><li>`laook-flutter-app` (default branch **main**) – initialized & protected</li><li>`laook-fe` (default branch **main**) – landing page & protected</li></ul> |
 | **Members** | `ahmadnurhidayat`, `AldiNFitrah`, `DhafaAryanda`, `inggitrestuillahi` |
 | **Teams** | **Developers** (slug: `developers`), **QA** (slug: `qa`) |
-| **Branch protection** | **Active** on `main` branch of all 5 repositories |
+| **Branch protection** | **Active** on `main` branch of all 6 repositories |
 
 ---
 
@@ -37,7 +37,7 @@ This repository serves as the central hub for organization-wide governance, docu
 ---
 
 ### 2️⃣ Enforce Branch‑Protection Rules (Status: COMPLETE ✅)
-Branch protection is now active on the `main` branch of all five repositories (`LaookProj`, `laook-backend-api`, `laook-models`, `laook-mobile-app`, `laook-flutter-app`) with the following policies:
+Branch protection is now active on the `main` branch of all six repositories (`LaookProj`, `laook-backend-api`, `laook-models`, `laook-mobile-app`, `laook-flutter-app`, `laook-fe`) with the following policies:
 
 | Rule | Configuration | Status |
 |---|---|---|
